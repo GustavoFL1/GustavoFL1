@@ -7,5 +7,5 @@ En busca de nuevos retos y oportunidades.
 
 Frontend Developer | Javascript, HTML, Phyton, CSS
 
-Pueden comuncarse conmgo a través de: gustavofcontacto@gmail.com
+Pueden comunicarse conmigo a través de: gustavofcontacto@gmail.com
 
